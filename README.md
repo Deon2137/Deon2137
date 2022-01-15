@@ -1,3 +1,1 @@
-Hello there
-
-i do coding and shit
+System.out.println(hello there);
